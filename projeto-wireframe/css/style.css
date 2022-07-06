@@ -1,3 +1,4 @@
 header {
-  background-color: ;
+  width: 100%;
+  background-color: var(--gray-color-800);
 }
